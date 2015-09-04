@@ -1,0 +1,14 @@
+{
+  "name": "gulppostcssstarter",
+  "version": "1.0.0",
+  "description": "Basic starter project for PostCSS use via Gulp",
+  "author": "Kezz Bracey",
+  "license": "MIT",
+  "devDependencies": {
+    "css-mqpacker": "^3.1.0",
+    "cssnano": "^2.6.1",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.10",
+    "postcss-import": "^6.2.0"
+  }
+}
